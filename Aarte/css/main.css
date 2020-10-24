@@ -1,0 +1,136 @@
+.mao{
+    background-color: #465585;
+    padding: 27px;
+    padding-bottom: 3%;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+.titulos{
+    font-weight: 600;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #0D1528;
+    text-align: center;
+    color: rgb(255, 254, 254);
+}
+ul{
+    margin: auto;
+}
+.nome ul li {
+    display: inline-block;
+    float: none;
+    padding:10px;
+}
+.menu-urls {
+    height: 70px;
+    border-bottom: 3px solid chocolate;
+} 
+.menu ul li {
+    display: inline-block;
+    margin-left: 24px;
+    height: 4-px;
+}
+.menu ul li a {
+    color: goldenrod;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.menu ul li:hover {
+    border-bottom: 2px solid cadetblue;
+}
+.menu ul li a:hover{
+    padding: 10px;
+    color: cadetblue;
+
+}
+.menu {
+    width: 50%;
+    float: left;
+    justify-content: center;
+    justify-items: center;
+    padding-left: 50px;
+    height: 30px;
+    margin-right: 10px;
+    width: 700px;
+    border-top-width: 10px;
+}
+.nav{
+    display: block;
+}
+.titulos-2 {
+    font-size: Verdana;
+    color: #042959;
+    text-align: center;
+}
+.descriçao{
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    height: auto;
+}
+.imagem{
+    display: table-cell;
+    padding: 30px;
+    width: 500px;
+    float: left;
+}
+
+.corpo{
+        margin-bottom: 45px;
+        background-color:#Fff;
+        margin: auto;
+        width: 1120px;
+        border: 2px solid #ddd;
+        border-radius: 1px;
+        padding: 16px;
+        margin-bottom: 27px;
+}
+.conteudo{
+        display: table;
+}
+.texto{
+        display: table-cell;
+        float: left;
+        width: 500px;
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: justify;
+        text-decoration: none;
+        font-size:medium;
+        font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 15px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80px;
+    text-align: right;
+}
+html, body {
+    margin:0px !important;
+    padding: 0px !important;
+    background-color: #f2f2f2;
+}
+.rotape{
+    background-image: url(Guerra-e-paz.jpg);
+    background-repeat: none;
+    background-position: center;
+    padding: 25px;
+    height: 200px;
+}
+.name{
+    text-align: right;
+    color: chocolate;
+    font-size: medium;
+    font-family: cursive;
+    padding: -7px;
+}
